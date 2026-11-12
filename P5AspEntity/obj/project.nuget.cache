@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nTqhMapMzVE=",
+  "dgSpecHash": "zNKr+ylnfrw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Bureau\\ETUDE\\DIC3\\C-Sharp et net\\C-Sharp\\POOAspEntity\\P5AspEntity\\P5AspEntity.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Bureau\\ETUDE\\DIC3\\C-Sharp et net\\C-Sharp\\TP-mobile-dotnet\\P5AspEntity\\P5AspEntity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\3.0.10\\humanizer.core.3.0.10.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\11.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.11.0.0.nupkg.sha512",
